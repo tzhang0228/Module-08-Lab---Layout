@@ -1,0 +1,26 @@
+/*decorating the body*/
+body {
+background-color: aqua;}
+
+/*decorating my header*/
+header { 
+position: fixed;
+margin-top: 50px;
+width: 100%;
+font-size: 20px; 
+color: blue; 
+font-style: oblique;
+}
+
+
+/*navigation alignment*/
+nav {text-align: center;justify-content: center;
+}
+
+
+/*Button's color change*/
+.change_color:hover {
+background-color: blue;
+}
+/*no overlap*/
+main{padding-top:50px}
